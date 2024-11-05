@@ -1,0 +1,1617 @@
+fileFormatVersion: 2
+guid: 3b618cf6773b8944eac9b1ba39a2173b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3033736684137142597
+    second: Neymar_SpriteSheet_0
+  - first:
+      213: 8151799632824586750
+    second: Neymar_SpriteSheet_1
+  - first:
+      213: 2918358651939521472
+    second: Neymar_SpriteSheet_2
+  - first:
+      213: -2585449632356967685
+    second: Neymar_SpriteSheet_3
+  - first:
+      213: 3731148157466373092
+    second: Neymar_SpriteSheet_4
+  - first:
+      213: -8485483291220638862
+    second: Neymar_SpriteSheet_5
+  - first:
+      213: 7588177833122065680
+    second: Neymar_SpriteSheet_6
+  - first:
+      213: 6607925386668717183
+    second: Neymar_SpriteSheet_7
+  - first:
+      213: -4038170116659622336
+    second: Neymar_SpriteSheet_8
+  - first:
+      213: -918918145637426391
+    second: Neymar_SpriteSheet_9
+  - first:
+      213: 1914217452930661522
+    second: Neymar_SpriteSheet_10
+  - first:
+      213: -264944701329173990
+    second: Neymar_SpriteSheet_11
+  - first:
+      213: -8242166811973573748
+    second: Neymar_SpriteSheet_12
+  - first:
+      213: -2799621022009354358
+    second: Neymar_SpriteSheet_13
+  - first:
+      213: -2949930042565999774
+    second: Neymar_SpriteSheet_14
+  - first:
+      213: 267578878667234798
+    second: Neymar_SpriteSheet_15
+  - first:
+      213: -6131509455428933094
+    second: Neymar_SpriteSheet_16
+  - first:
+      213: 3457152778226443682
+    second: Neymar_SpriteSheet_17
+  - first:
+      213: -1043229523153241875
+    second: Neymar_SpriteSheet_18
+  - first:
+      213: 918840241924308689
+    second: Neymar_SpriteSheet_19
+  - first:
+      213: -4245618018008923851
+    second: Neymar_SpriteSheet_20
+  - first:
+      213: 4647346582134279956
+    second: Neymar_SpriteSheet_21
+  - first:
+      213: 8307248026215229790
+    second: Neymar_SpriteSheet_22
+  - first:
+      213: 4610008973394032869
+    second: Neymar_SpriteSheet_23
+  - first:
+      213: -8166253339013767868
+    second: Neymar_SpriteSheet_24
+  - first:
+      213: 1588688865304344179
+    second: Neymar_SpriteSheet_25
+  - first:
+      213: 667354653010735587
+    second: Neymar_SpriteSheet_26
+  - first:
+      213: 8059276022854263705
+    second: Neymar_SpriteSheet_27
+  - first:
+      213: 7386283277820796144
+    second: Neymar_SpriteSheet_28
+  - first:
+      213: -3018536361666399425
+    second: Neymar_SpriteSheet_29
+  - first:
+      213: 980626884038253467
+    second: Neymar_SpriteSheet_30
+  - first:
+      213: 1557220034649115294
+    second: Neymar_SpriteSheet_31
+  - first:
+      213: 1414354712307555156
+    second: Neymar_SpriteSheet_32
+  - first:
+      213: -394222581027515094
+    second: Neymar_SpriteSheet_33
+  - first:
+      213: 8356940161129700834
+    second: Neymar_SpriteSheet_34
+  - first:
+      213: 6239650965368394707
+    second: Neymar_SpriteSheet_35
+  - first:
+      213: 8374741626873332702
+    second: Neymar_SpriteSheet_36
+  - first:
+      213: 1871552348557540888
+    second: Neymar_SpriteSheet_37
+  - first:
+      213: 8814358336172522454
+    second: Neymar_SpriteSheet_38
+  - first:
+      213: 412295099077425112
+    second: Neymar_SpriteSheet_39
+  - first:
+      213: 5112340228060141515
+    second: Neymar_SpriteSheet_40
+  - first:
+      213: -1046499136370784151
+    second: Neymar_SpriteSheet_41
+  - first:
+      213: -7108787246654518614
+    second: Neymar_SpriteSheet_42
+  - first:
+      213: 8717001858759693574
+    second: Neymar_SpriteSheet_43
+  - first:
+      213: -133036066818637313
+    second: Neymar_SpriteSheet_44
+  - first:
+      213: -3669764889385636882
+    second: Neymar_SpriteSheet_45
+  - first:
+      213: 6693451051849447329
+    second: Neymar_SpriteSheet_46
+  - first:
+      213: 3238423681377069632
+    second: Neymar_SpriteSheet_47
+  - first:
+      213: -7845179295779014084
+    second: Neymar_SpriteSheet_48
+  - first:
+      213: -1611863139313812859
+    second: Neymar_SpriteSheet_49
+  - first:
+      213: 4741655857578137475
+    second: Neymar_SpriteSheet_50
+  - first:
+      213: -7990248360827320084
+    second: Neymar_SpriteSheet_51
+  - first:
+      213: -6514704701426377978
+    second: Neymar_SpriteSheet_52
+  - first:
+      213: 26046281500539739
+    second: Neymar_SpriteSheet_53
+  - first:
+      213: 4584106651562003590
+    second: Neymar_SpriteSheet_54
+  - first:
+      213: -2964918476896600777
+    second: Neymar_SpriteSheet_55
+  - first:
+      213: -1428777041851550459
+    second: Neymar_SpriteSheet_56
+  - first:
+      213: -7636329237312178505
+    second: Neymar_SpriteSheet_57
+  - first:
+      213: -1930690938903492249
+    second: Neymar_SpriteSheet_58
+  - first:
+      213: -1608133664633426549
+    second: Neymar_SpriteSheet_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 3991
+        width: 113
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549d018d07ff91a20800000000000000
+      internalID: 3033736684137142597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 3991
+        width: 113
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef15ba27392012170800000000000000
+      internalID: 8151799632824586750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 3988
+        width: 82
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c30b085bb7108820800000000000000
+      internalID: 2918358651939521472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 3987
+        width: 83
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfad2b6f143ae1cd0800000000000000
+      internalID: -2585449632356967685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 2713
+        y: 3984
+        width: 84
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ebe2221b73b7c330800000000000000
+      internalID: 3731148157466373092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 3624
+        width: 112
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273084797e18d3a80800000000000000
+      internalID: -8485483291220638862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 3626
+        width: 127
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01debbb098f9e4960800000000000000
+      internalID: 7588177833122065680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 3626
+        width: 127
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74bcaef02114bb50800000000000000
+      internalID: 6607925386668717183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 3623
+        width: 163
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ec7ed8ca985f7c0800000000000000
+      internalID: -4038170116659622336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 3623
+        width: 184
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92bde9fa0d85f33f0800000000000000
+      internalID: -918918145637426391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 3266
+        width: 192
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29cf8c8a1aaa09a10800000000000000
+      internalID: 1914217452930661522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 3264
+        width: 184
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a121728a23ab25cf0800000000000000
+      internalID: -264944701329173990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 3261
+        width: 179
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c832dc014f0fd9d80800000000000000
+      internalID: -8242166811973573748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 3261
+        width: 179
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a879a65738fb529d0800000000000000
+      internalID: -2799621022009354358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 3259
+        width: 175
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263c994714ebf07d0800000000000000
+      internalID: -2949930042565999774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 2898
+        width: 166
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed9b5c8291a6b300800000000000000
+      internalID: 267578878667234798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 2898
+        width: 163
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1aa53ce2a088eaa0800000000000000
+      internalID: -6131509455428933094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 2898
+        width: 167
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5217092264aff20800000000000000
+      internalID: 3457152778226443682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 2895
+        width: 168
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de83045a644b581f0800000000000000
+      internalID: -1043229523153241875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 2895
+        width: 168
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de7b31f45060cc00800000000000000
+      internalID: 918840241924308689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 2538
+        width: 168
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531849828e88415c0800000000000000
+      internalID: -4245618018008923851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 2542
+        width: 162
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f4d300811be7040800000000000000
+      internalID: 4647346582134279956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 2543
+        width: 158
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59af9fe016494370800000000000000
+      internalID: 8307248026215229790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 2540
+        width: 163
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8b3868cba0aff30800000000000000
+      internalID: 4610008973394032869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 2539
+        width: 170
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d9c36dad3abae80800000000000000
+      internalID: -8166253339013767868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2180
+        width: 170
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37675131b182c0610800000000000000
+      internalID: 1588688865304344179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2176
+        width: 179
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1b8e7658be24900800000000000000
+      internalID: 667354653010735587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 2175
+        width: 174
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9932d09c7dc48df60800000000000000
+      internalID: 8059276022854263705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 2176
+        width: 153
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc9ae8c189518660800000000000000
+      internalID: 7386283277820796144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 2714
+        y: 2178
+        width: 102
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3336450c210c16d0800000000000000
+      internalID: -3018536361666399425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1821
+        width: 96
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b5c4894f2eb9d00800000000000000
+      internalID: 980626884038253467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1821
+        width: 96
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ac16afe5b5c9510800000000000000
+      internalID: 1557220034649115294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1826
+        width: 87
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45bdd750e1cc0a310800000000000000
+      internalID: 1414354712307555156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 1827
+        width: 108
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25da67b6a0778af0800000000000000
+      internalID: -394222581027515094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 2689
+        y: 1828
+        width: 122
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2edd451bcc0d9f370800000000000000
+      internalID: 8356940161129700834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1470
+        width: 159
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3d4317e71b79650800000000000000
+      internalID: 6239650965368394707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1469
+        width: 154
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3467b632f093470800000000000000
+      internalID: 8374741626873332702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 1469
+        width: 154
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ef152f1f619f910800000000000000
+      internalID: 1871552348557540888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 1472
+        width: 155
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbf09ec434e25a70800000000000000
+      internalID: 8814358336172522454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 1483
+        width: 163
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7f42b4534c8b500800000000000000
+      internalID: 412295099077425112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1130
+        width: 155
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7d670e95ea2f640800000000000000
+      internalID: 5112340228060141515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1132
+        width: 146
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968cdde74961a71f0800000000000000
+      internalID: -1046499136370784151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1138
+        width: 136
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa8453c9a3885d90800000000000000
+      internalID: -7108787246654518614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 2026
+        y: 1138
+        width: 136
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6059ac1810309f870800000000000000
+      internalID: 8717001858759693574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 2668
+        y: 1139
+        width: 127
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1c5fee66c572ef0800000000000000
+      internalID: -133036066818637313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 778
+        width: 114
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebe7feb640621dc0800000000000000
+      internalID: -3669764889385636882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 777
+        width: 110
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a773faa44ae3ec50800000000000000
+      internalID: 6693451051849447329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 773
+        width: 110
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a61b82e2131fc20800000000000000
+      internalID: 3238423681377069632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 773
+        width: 116
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ab7dbfef2502390800000000000000
+      internalID: -7845179295779014084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 2662
+        y: 773
+        width: 116
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a77aac30381a9e0800000000000000
+      internalID: -1611863139313812859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 414
+        width: 118
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387581e41eebdc140800000000000000
+      internalID: 4741655857578137475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 415
+        width: 120
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce88db1337fec1190800000000000000
+      internalID: -7990248360827320084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 416
+        width: 123
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bd9e6279e1795a0800000000000000
+      internalID: -6514704701426377978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 421
+        width: 129
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b3f8c74f88c5000800000000000000
+      internalID: 26046281500539739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 421
+        width: 136
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ccbd246b40e9f30800000000000000
+      internalID: 4584106651562003590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 62
+        width: 136
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73df594aa5e7ad6d0800000000000000
+      internalID: -2964918476896600777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 61
+        width: 143
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5057435b9d6fb2ce0800000000000000
+      internalID: -1428777041851550459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 59
+        width: 151
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6f316840f460690800000000000000
+      internalID: -7636329237312178505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 54
+        width: 160
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769879ff1dec435e0800000000000000
+      internalID: -1930690938903492249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neymar_SpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 2689
+        y: 33
+        width: 122
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d6d28c3f2cea9e0800000000000000
+      internalID: -1608133664633426549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
