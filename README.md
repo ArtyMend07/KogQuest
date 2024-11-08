@@ -13,7 +13,7 @@ Para a criação da música foi utilizado software gratuito chamado Suno, nele �
 A e D para mover o Neymar e 
 I e U para os ataques dele. <br>
 Sentinhas para mover o personagem secundario,
-atacando com O, P, P.
+atacando com O, P, K.
 
 ## Integrantes
 
