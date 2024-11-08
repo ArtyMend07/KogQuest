@@ -8,6 +8,13 @@ KogQuest é um jogo de luta feito na semana universitária para a gamejam de 202
 
 Para a criação da música foi utilizado software gratuito chamado Suno, nele é possível criar suas músicas com apenas prompts. Já para o assets dos personagens, foi utilizado o viggle.
 
+## Controles do jogo 
+
+A e D para mover o Neymar e 
+I e U para os ataques dele.
+Sentinhas para mover o personagem secundario,
+atacando com o, p, k.
+
 ## Integrantes
 
 Artur <br>
