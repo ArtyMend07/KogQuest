@@ -10,8 +10,7 @@ Para a criação da música foi utilizado software gratuito chamado Suno, nele �
 
 ## Controles do jogo 
 
-A e D para mover o Neymar, atacando com
-I e U . <br>
+A e D para mover o Neymar, atacando com I e U . <br>
 Sentinhas para mover o personagem secundario,
 atacando com O, P, K.
 
